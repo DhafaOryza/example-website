@@ -13,11 +13,15 @@ function Footer({ setCurrentIndex }) {
     const socials = [
         {
             url: "/image/Footer/Social-Media/x.png",
-            link: "",
+            link: "https://x.com/SleeperManz_",
         },
         {
             url: "/image/Footer/Social-Media/instagram.png",
-            link: "", 
+            link: "https://www.instagram.com/sleeper_manz/", 
+        },
+        {
+            url: "/image/Footer/Social-Media/YouTube.png",
+            link: "https://youtube.com/@sleepermanz?si=gqnE3efAP05aWaqg",
         },
         {
             url: "/image/Footer/Social-Media/fiverr.png",
